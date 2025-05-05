@@ -71,6 +71,7 @@ ax2 = ax1.twinx()
 ax2.bar(x, volumes, color='gray', alpha=0.3, width=1.0, label='Volume')
 ax2.set_ylabel("Volume", color='gray')
 ax2.tick_params(axis='y', labelcolor='gray')
+ax2.set_yticks([0, 2000, 4000, 6000, 8000, 10000, 12000, 14000])
 ax2.set_ylim([0, 50000])
 
 plt.title("Auction Pricing (with Volume)")
