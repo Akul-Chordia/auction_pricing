@@ -12,5 +12,6 @@ The core idea is to:
 - Repeat this process over multiple iterations to visualize price and volume trends.
 
 ---
-![Auction Plot](<img width="580" alt="image" src="https://github.com/user-attachments/assets/6363609e-4099-4192-a42c-87cb42acaca3" />
-)
+
+![Auction Plot](https://github.com/user-attachments/assets/1af783d7-428b-4810-a38a-3ec2068a484d)
+
